@@ -24,8 +24,6 @@ This repository is dedicated to the **development, documentation, and democratiz
 ---
 
 
----
-
 Would you like me to generate any of the following?
 
 - `LICENSE.md` file using CC BY-NC-SA 4.0
@@ -35,4 +33,5 @@ Would you like me to generate any of the following?
 - GitHub Pages `index.md` or custom landing page
 
 Let me know which you'd like next!
+
 
