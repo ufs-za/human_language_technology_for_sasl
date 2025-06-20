@@ -23,6 +23,8 @@ This repository is dedicated to the **development, documentation, and democratiz
 
 ---
 ---
+## Ethos
+
 “Language is not only a means of communication, but a right, a power, and a form of cultural preservation.”
 — Ubuntu HLT Collective
 
