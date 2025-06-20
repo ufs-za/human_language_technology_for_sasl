@@ -1,6 +1,6 @@
 # 🤟 South African Sign Language Human Language Technology (SASL HLT)
 
-Welcome to the official repository for **South African Sign Language Human Language Technology (SASL HLT)**. This initiative promotes open, inclusive, and ethical development of HLT tools, datasets, and models for SASL. The project is non-commercial and maintained by researchers at the **University of the Free State**, guided by Ubuntu ethics and a commitment to linguistic justice.
+Welcome to the official repository for **South African Sign Language Human Language Technology (SASL HLT)**. All of this work falls within the scope of the [Interdisciplinary Centre for Digital Futures](https://github.com/ufs-za/Interdisciplinary-Centre-for-Digital-Futures/tree/main?tab=readme-ov-file) at the [University of the Free State](https://www.ufs.ac.za/). This initiative promotes open, inclusive, and ethical development of HLT tools, datasets, and models for SASL. The project is non-commercial and maintained by researchers at the **University of the Free State**, guided by Ubuntu ethics and a commitment to linguistic justice.
 
 ---
 
