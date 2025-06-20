@@ -41,10 +41,5 @@ For advanced model integration, see the `notebooks/` folder for examples or `str
 
 ---
 
-Maintained by the University of the Free State | Ubuntu HLT Collective
-Contact: [contact@ufs.ac.za](mailto:contact@ufs.ac.za)
-
-```
-
-Let me know if you'd like this version added to the project files as a downloadable `.md` file or paired with example model files.
-```
+Maintained by the University of the Free State | ICDF HLT Collective
+Contact: Interdisciplinary Centre for Digital Futures
