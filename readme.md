@@ -151,8 +151,3 @@ For queries, collaborations, or ethical approvals:
 > — Ubuntu HLT Collective
 
 ```
-
----
-
-Let me know if you’d like the `LICENSE.md`, `CONTRIBUTING.md`, or `CODE_OF_CONDUCT.md` files next, or help setting up your GitHub Pages site.
-```
