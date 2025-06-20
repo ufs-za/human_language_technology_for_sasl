@@ -4,8 +4,7 @@ This folder includes interactive Streamlit applications for SASL data annotation
 
 ## Apps May Include
 - Annotation viewer
-- Lebitso naming app
-- Gloss visualisation tools
+
 
 ## Running Locally
 ```bash
