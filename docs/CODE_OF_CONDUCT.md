@@ -18,4 +18,4 @@ We are committed to creating a welcoming and respectful environment for all cont
 This project upholds Ubuntu ethics — the belief that our humanity is interconnected. Decisions are made in collaboration with affected communities. Language is power, and its use must always reflect dignity and justice.
 
 ## Enforcement
-Violations may result in removal from the project. For concerns, please email contact@ufs.ac.za with "Code of Conduct" in the subject line.
+Violations may result in removal from the project. For concerns, please email Interdisciplinary Centre for Digital Futures at the University of the Free State with "Code of Conduct" in the subject line.
