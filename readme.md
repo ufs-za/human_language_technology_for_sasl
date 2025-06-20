@@ -22,7 +22,7 @@ This repository is dedicated to the **development, documentation, and democratiz
 /artificial_intelligence  → Deep learning models, reinforcement learning scripts, and model checkpoints
 
 ---
-
+---
 “Language is not only a means of communication, but a right, a power, and a form of cultural preservation.”
 — Ubuntu HLT Collective
 
