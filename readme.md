@@ -21,3 +21,18 @@ This repository is dedicated to the **development, documentation, and democratiz
 /streamlit                → Streamlit apps for interactive demos and educational tools
 /artificial_intelligence  → Deep learning models, reinforcement learning scripts, and model checkpoints
 
+---
+
+
+---
+
+Would you like me to generate any of the following?
+
+- `LICENSE.md` file using CC BY-NC-SA 4.0
+- `CONTRIBUTING.md` with guidance for researchers and Deaf collaborators
+- `CODE_OF_CONDUCT.md` based on inclusive research principles
+- Streamlit starter app (`Lebitso App` or annotation previewer)
+- GitHub Pages `index.md` or custom landing page
+
+Let me know which you'd like next!
+
