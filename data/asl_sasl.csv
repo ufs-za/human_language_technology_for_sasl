@@ -1,4 +1,4 @@
-Name_of_sign,YouTube_link,Same_in_SASL_as_ASL,Can_the_link_be_downloaded,Number_of_Hands_used,`,`,`
+Name_of_sign,YouTube_link,Same_in_SASL_as_ASL,Can_the_link_be_downloaded,Number_of_Hands_used
 match [light-a-MATCH],www.youtube.com/watch?v=C37R_Ix8-qs,SOMEWHAT THE SAME,YES,TWO HANDS,,,
 FAIL,www.youtube.com/watch?v=PIsUJl8BN_I,NOT THE SAME,YES,TWO HANDS,,,
 BOOK,www.youtube.com/watch?v=J7tP98oDxqE,SAME,YES,TWO HANDS,,,
