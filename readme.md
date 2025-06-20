@@ -1,8 +1,3 @@
-Absolutely — here is your complete `README.md` file in Markdown format, ready for copy-paste directly into your GitHub repository:
-
----
-
-````markdown
 # 🤟 South African Sign Language Human Language Technology (SASL HLT)
 
 Welcome to the official repository for **South African Sign Language Human Language Technology (SASL HLT)**. This initiative promotes open, inclusive, and ethical development of HLT tools, datasets, and models for SASL. The project is non-commercial and maintained by researchers at the **University of the Free State**, guided by Ubuntu ethics and a commitment to linguistic justice.
