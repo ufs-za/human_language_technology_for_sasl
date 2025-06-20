@@ -24,4 +24,27 @@ This folder contains AI models, training outputs, checkpoints (e.g., `.pkl` file
 1. Install required packages:
    ```bash
    pip install -r requirements.txt
+````
 
+2. Load a model:
+
+   ```python
+   import pickle
+
+   with open('model_checkpoint.pkl', 'rb') as f:
+       model = pickle.load(f)
+   ```
+
+3. Run a test script or connect to your preprocessing pipeline.
+
+For advanced model integration, see the `notebooks/` folder for examples or `streamlit/` for web-based demos.
+
+---
+
+Maintained by the University of the Free State | Ubuntu HLT Collective
+Contact: [contact@ufs.ac.za](mailto:contact@ufs.ac.za)
+
+```
+
+Let me know if you'd like this version added to the project files as a downloadable `.md` file or paired with example model files.
+```
