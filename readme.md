@@ -12,7 +12,7 @@ This repository is dedicated to the **development, documentation, and democratiz
 
 ## 📂 Repository Structure
 
-```plaintext
+
 /data                     → Annotated and raw linguistic datasets (e.g., video, gloss, translations)
 /images                   → Visuals and illustrations, including avatars and interface elements
 /code                     → Core Python scripts for preprocessing, training, and inference
@@ -22,8 +22,8 @@ This repository is dedicated to the **development, documentation, and democratiz
 /artificial_intelligence  → Deep learning models, reinforcement learning scripts, and model checkpoints
 
 ---
----
-## Ethos
+
+## 📂 Ethos
 
 “Language is not only a means of communication, but a right, a power, and a form of cultural preservation.”
 — Ubuntu HLT Collective
