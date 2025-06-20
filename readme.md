@@ -23,15 +23,7 @@ This repository is dedicated to the **development, documentation, and democratiz
 
 ---
 
-
-Would you like me to generate any of the following?
-
-- `LICENSE.md` file using CC BY-NC-SA 4.0
-- `CONTRIBUTING.md` with guidance for researchers and Deaf collaborators
-- `CODE_OF_CONDUCT.md` based on inclusive research principles
-- Streamlit starter app (`Lebitso App` or annotation previewer)
-- GitHub Pages `index.md` or custom landing page
-
-Let me know which you'd like next!
+“Language is not only a means of communication, but a right, a power, and a form of cultural preservation.”
+— Ubuntu HLT Collective
 
 
