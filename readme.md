@@ -129,7 +129,7 @@ Explore notebooks in `/notebooks` or datasets in `/data` to begin your experimen
 
 ## 🔗 Links
 
-* 🌐 Main Website: [https://yourinstitution.github.io/sasl-hlt](https://yourinstitution.github.io/sasl-hlt)
+* 🌐 Main Website: [[https://yourinstitution.github.io/sasl-hlt](https://www.ufs.ac.za/icdf)]([https://yourinstitution.github.io/sasl-hlt](https://www.ufs.ac.za/icdf)
 * 📝 Research: [`/docs/RESEARCH.md`](docs/RESEARCH.md)
 * 📊 Streamlit Apps: [`/streamlit/`](streamlit/)
 * 🎓 Educational Tools: [`/notebooks/`](notebooks/)
