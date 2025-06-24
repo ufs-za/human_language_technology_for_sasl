@@ -141,9 +141,9 @@ Explore notebooks in `/notebooks` or datasets in `/data` to begin your experimen
 
 For queries, collaborations, or ethical approvals:
 
-* **Email**: [contact@ufs.ac.za](mailto:contact@ufs.ac.za)
+* **Email**: [https://www.ufs.ac.za/icdf/icdf-home/contact-us](https://www.ufs.ac.za/icdf/icdf-home/contact-us)
 * **Institution**: University of the Free State
-* **Affiliation**: Ubuntu HLT Collective
+* **Affiliation**: Interdisciplinary Centre for Digital Futures
 
 ---
 
