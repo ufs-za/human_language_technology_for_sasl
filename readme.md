@@ -145,9 +145,3 @@ For queries, collaborations, or ethical approvals:
 * **Institution**: University of the Free State
 * **Affiliation**: Interdisciplinary Centre for Digital Futures
 
----
-
-> “Language is not only a means of communication, but a right, a power, and a form of cultural preservation.”
-> — Ubuntu HLT Collective
-
-```
