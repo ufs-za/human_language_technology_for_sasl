@@ -1,0 +1,33 @@
+{
+    "letter": "Ff",
+    "mesh_count": 4,
+    "variations": [
+        {
+            "filename": "SASL_FS_Ff_Left_Medium_Var1.stl",
+            "hand_orientation": "Left",
+            "hand_size": "Medium",
+            "variation": "Var1"
+        },
+        {
+            "filename": "SASL_FS_Ff_Left_Medium_Var2.stl",
+            "hand_orientation": "Left",
+            "hand_size": "Medium",
+            "variation": "Var2"
+        },
+        {
+            "filename": "SASL_FS_Ff_Right_Medium_Var1.stl",
+            "hand_orientation": "Right",
+            "hand_size": "Medium",
+            "variation": "Var1"
+        },
+        {
+            "filename": "SASL_FS_Ff_Right_Medium_Var2.stl",
+            "hand_orientation": "Right",
+            "hand_size": "Medium",
+            "variation": "Var2"
+        }
+    ],
+    "creator": " Interdisciplinary Centre for Digital Futures",
+    "creation_date": "2025-09-08",
+    "license": "CC BY-NC-SA 4.0"
+}

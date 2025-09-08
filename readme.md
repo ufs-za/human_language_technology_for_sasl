@@ -13,22 +13,28 @@ This repository is dedicated to the **development, documentation, and open acces
 ## 📁 Repository Structure
 
 ```plaintext
-/data                     → Annotated and raw linguistic datasets (video, gloss, etc.)
+/data                     → Annotated and synthetic datasets for SASL HLT
+  ├── meshes/             → STL files of SASL fingerspelling meshes, organized by letter (e.g., Aa/, Bb/)
+  │   └── metadata.json   → Mesh metadata (e.g., variations, creation method)
+  ├── synthetic_data_resources/ → Synthetic video datasets of painted 3D-printed hands, organized by letter and lot (e.g., Aa/FS_AaRM250607#1/)
+  │   └── metadata.json   → Lot-specific metadata (e.g., lot number, hand details)
+  ├── annotations/        → Sign metadata in CSV format (e.g., asl_sasl.csv)
+  └── README.md           → Detailed data folder documentation
 /images                   → Visuals, avatars, interface assets
 /code                     → Python scripts for processing, modelling, and tool development
 /notebooks                → Jupyter notebooks for analysis and experimentation
 /docs                     → Licensing, ethical frameworks, project vision
 /streamlit                → Streamlit demo apps and UI prototypes
 /artificial_intelligence  → AI models, reinforcement learning, synthetic data tools
-````
+```
 
 ---
 
 ## 🧠 Technology Stack
 
 * **Language**: Python
-* **Tools**: Jupyter, Streamlit, Pandas, OpenCV
-* **Formats**: CSV, MP4, JSON, PKL, PNG
+* **Tools**: Jupyter, Streamlit, Pandas, OpenCV, Blender
+* **Formats**: CSV, MP4, JSON, PKL, PNG, STL
 * **Platforms**: Local, Google Colab, Streamlit Cloud (planned)
 
 ---
@@ -36,6 +42,8 @@ This repository is dedicated to the **development, documentation, and open acces
 ## ✅ Features
 
 * Annotated datasets and glossing dictionaries
+* Synthetic datasets including meshes (STL) and video frames (PNG) for fingerspelling
+* Metadata files (JSON) for meshes and synthetic video lots, detailing variations and hand details
 * Streamlit applications for interactive demos (e.g., Lebitso App)
 * Code and models for preprocessing, analysis, and AI training
 * Ethical licensing and data governance documentation
@@ -57,7 +65,7 @@ This repository is dedicated to the **development, documentation, and open acces
 
 All content in this repository is released under the:
 
-**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
 🔗 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 You are free to:
@@ -71,7 +79,7 @@ Under the following terms:
 * **Non-Commercial** — no commercial use is allowed
 * **ShareAlike** — distribute your contributions under the same license
 
-🛑 **Commercialisation requires a formal data sharing agreement.**
+🛑 **Commercialisation requires a formal data sharing agreement.**  
 ✅ All users must provide proper acknowledgements when using any part of this repository.
 
 See [`/docs/LICENCE.md`](docs/LICENCE.md) for more details.
@@ -144,4 +152,3 @@ For queries, collaborations, or ethical approvals:
 * **Email**: [https://www.ufs.ac.za/icdf/icdf-home/contact-us](https://www.ufs.ac.za/icdf/icdf-home/contact-us)
 * **Institution**: University of the Free State
 * **Affiliation**: Interdisciplinary Centre for Digital Futures
-
