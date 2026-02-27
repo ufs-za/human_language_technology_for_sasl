@@ -1,0 +1,16 @@
+{
+    "letter": "Oo",
+    "mesh_count": 1,
+    "variations": [
+        {
+            "filename": "SASL_FS_Oo_Right_Medium_Var1.stl",
+            "hand_orientation": "Right",
+            "hand_size": "Medium",
+            "variation": "Var1",
+            "file_size": "1.51 MB"
+        }
+    ],
+    "creator": " Interdisciplinary Centre for Digital Futures",
+    "creation_date": "2026-02-27",
+    "license": "CC BY-NC-SA 4.0"
+}

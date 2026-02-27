@@ -6,16 +6,18 @@
             "filename": "SASL_FS_Cc_Left_Medium_Var1.stl",
             "hand_orientation": "Left",
             "hand_size": "Medium",
-            "variation": "Var1"
+            "variation": "Var1",
+            "file_size": "1.53 MB"
         },
         {
             "filename": "SASL_FS_Cc_Right_Medium_Var1.stl",
             "hand_orientation": "Right",
             "hand_size": "Medium",
-            "variation": "Var1"
+            "variation": "Var1",
+            "file_size": "1.53 MB"
         }
     ],
     "creator": " Interdisciplinary Centre for Digital Futures",
-    "creation_date": "2025-09-08",
+    "creation_date": "2026-02-27",
     "license": "CC BY-NC-SA 4.0"
 }

@@ -1,16 +1,16 @@
 {
-    "letter": "Aa",
+    "letter": "Gg",
     "mesh_count": 2,
     "variations": [
         {
-            "filename": "SASL_FS_Aa_Left_Medium_Var1.stl",
+            "filename": "SASL_FS_Gg_Left_Medium_Var1.stl",
             "hand_orientation": "Left",
             "hand_size": "Medium",
             "variation": "Var1",
             "file_size": "1.53 MB"
         },
         {
-            "filename": "SASL_FS_Aa_Right_Medium_Var1.stl",
+            "filename": "SASL_FS_Gg_Right_Medium_Var1.stl",
             "hand_orientation": "Right",
             "hand_size": "Medium",
             "variation": "Var1",
