@@ -22,9 +22,10 @@ This folder contains AI models, training outputs, checkpoints (e.g., `.pkl` file
 ## Getting Started
 
 1. Install required packages:
+```
    pip install -r requirements.txt
-
-2. Load a model:
+```
+3. Load a model:
 
    ```python
    import pickle
@@ -33,7 +34,7 @@ This folder contains AI models, training outputs, checkpoints (e.g., `.pkl` file
        model = pickle.load(f)
    ```
 
-3. Run a test script or connect to your preprocessing pipeline.
+4. Run a test script or connect to your preprocessing pipeline.
 
 For advanced model integration, see the `notebooks/` folder for examples or `streamlit/` for web-based demos.
 
