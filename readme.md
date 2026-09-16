@@ -4,13 +4,13 @@ Welcome to the official repository for **South African Sign Language Human Langu
 
 ---
 
-## 🌍 Purpose
+## Purpose
 
 This repository is dedicated to the **development, documentation, and open access of SASL HLT** for research, education, and public use. We aim to correct the hearing-centric bias in existing HLT systems by supporting **Deaf-led and inclusive design**. Our work supports community-anchored applications, including the *Lebitso App*, and aligns with principles of linguistic equality and technological equity.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```plaintext
 /data                     → Annotated and synthetic datasets for SASL HLT
@@ -30,7 +30,7 @@ This repository is dedicated to the **development, documentation, and open acces
 
 ---
 
-## 🧠 Technology Stack
+## Technology Stack
 
 * **Language**: Python
 * **Tools**: Jupyter, Streamlit, Pandas, OpenCV, Blender
@@ -39,7 +39,7 @@ This repository is dedicated to the **development, documentation, and open acces
 
 ---
 
-## ✅ Features
+## Features
 
 * Annotated datasets and glossing dictionaries
 * Synthetic datasets including meshes (STL) and video frames (PNG) for fingerspelling
@@ -51,7 +51,7 @@ This repository is dedicated to the **development, documentation, and open acces
 
 ---
 
-## 🛤️ Roadmap
+## Roadmap
 
 * [ ] End-to-end SASL recognition and translation pipelines
 * [ ] Avatar-based SASL synthesis and variation generation
@@ -61,7 +61,7 @@ This repository is dedicated to the **development, documentation, and open acces
 
 ---
 
-## 🧾 License and Ethical Use
+## License and Ethical Use
 
 All content in this repository is released under the:
 
@@ -86,7 +86,7 @@ See [`/docs/LICENCE.md`](docs/LICENCE.md) for more details.
 
 ---
 
-## 🧭 Vision and Values
+## Vision and Values
 
 This repository forms part of our response to the **HLT infodemic** - where existing technologies for sign language are predominantly **hearing-centric** and often exclude Deaf perspectives. We advocate for:
 
@@ -96,7 +96,7 @@ This repository forms part of our response to the **HLT infodemic** - where exis
 
 ---
 
-## 🤝 Contribution Guidelines
+## Contribution Guidelines
 
 We welcome contributions that align with our ethical and community values.
 
@@ -115,7 +115,7 @@ Please read:
 
 ---
 
-## 🧪 Quickstart
+## Quickstart
 
 To run locally:
 
