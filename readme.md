@@ -88,7 +88,7 @@ See [`/docs/LICENCE.md`](docs/LICENCE.md) for more details.
 
 ## 🧭 Vision and Values
 
-This repository forms part of our response to the **HLT infodemic** — where existing technologies for sign language are predominantly **hearing-centric** and often exclude Deaf perspectives. We advocate for:
+This repository forms part of our response to the **HLT infodemic** - where existing technologies for sign language are predominantly **hearing-centric** and often exclude Deaf perspectives. We advocate for:
 
 * **Ubuntu Ethics** - recognising interdependence, dignity, and inclusion
 * **Nothing About Us Without Us** - prioritising Deaf community leadership
