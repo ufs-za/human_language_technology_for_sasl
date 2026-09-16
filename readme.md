@@ -70,14 +70,14 @@ All content in this repository is released under the:
 
 You are free to:
 
-* **Share** — copy and redistribute the material in any medium or format
-* **Adapt** — remix, transform, and build upon the material
+* **Share** - copy and redistribute the material in any medium or format
+* **Adapt** - remix, transform, and build upon the material
 
 Under the following terms:
 
-* **Attribution** — you must give appropriate credit
-* **Non-Commercial** — no commercial use is allowed
-* **ShareAlike** — distribute your contributions under the same license
+* **Attribution** - you must give appropriate credit
+* **Non-Commercial** - no commercial use is allowed
+* **ShareAlike** - distribute your contributions under the same license
 
 🛑 **Commercialisation requires a formal data sharing agreement.**  
 ✅ All users must provide proper acknowledgements when using any part of this repository.
@@ -90,9 +90,9 @@ See [`/docs/LICENCE.md`](docs/LICENCE.md) for more details.
 
 This repository forms part of our response to the **HLT infodemic** — where existing technologies for sign language are predominantly **hearing-centric** and often exclude Deaf perspectives. We advocate for:
 
-* **Ubuntu Ethics** — recognising interdependence, dignity, and inclusion
-* **Nothing About Us Without Us** — prioritising Deaf community leadership
-* **Non-Commercial, Public Good** — for learning, research, and community empowerment
+* **Ubuntu Ethics** - recognising interdependence, dignity, and inclusion
+* **Nothing About Us Without Us** - prioritising Deaf community leadership
+* **Non-Commercial, Public Good** - for learning, research, and community empowerment
 
 ---
 
