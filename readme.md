@@ -53,11 +53,11 @@ This repository is dedicated to the **development, documentation, and open acces
 
 ## Roadmap
 
-* [ ] End-to-end SASL recognition and translation pipelines
-* [ ] Avatar-based SASL synthesis and variation generation
-* [ ] Sign-language-informed glossing engines
-* [ ] Benchmarks and metrics for inclusive SASL HLT
-* [ ] Real-time APIs and annotation services
+* End-to-end SASL recognition and translation pipelines
+* Avatar-based SASL synthesis and variation generation
+* Sign-language-informed glossing engines
+* Benchmarks and metrics for inclusive SASL HLT
+* Real-time APIs and annotation services
 
 ---
 
@@ -79,8 +79,8 @@ Under the following terms:
 * **Non-Commercial** - no commercial use is allowed
 * **ShareAlike** - distribute your contributions under the same license
 
-🛑 **Commercialisation requires a formal data sharing agreement.**  
-✅ All users must provide proper acknowledgements when using any part of this repository.
+**Commercialisation requires a formal data sharing agreement.**  
+All users must provide proper acknowledgements when using any part of this repository.
 
 See [`/docs/LICENCE.md`](docs/LICENCE.md) for more details.
 
