@@ -22,9 +22,7 @@ This folder contains AI models, training outputs, checkpoints (e.g., `.pkl` file
 ## Getting Started
 
 1. Install required packages:
-   ```bash
    pip install -r requirements.txt
-````
 
 2. Load a model:
 
